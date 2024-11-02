@@ -1,3 +1,7 @@
+This project is available in multiple languages:
+- [English](README_EN.md)
+- [日本語](README_JP.md)
+
 # Привет <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> Меня зовут Марат
 
 ## Я начинающий Frontend-разработчик с большим интересом к созданию эффективных и креативных веб-сайтов.
