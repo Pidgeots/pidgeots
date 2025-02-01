@@ -12,8 +12,20 @@ I studied at School 21 by Sberbank, where I worked on C libraries and collaborat
 
 ## 📂 My Projects
 
-- [Project 1](https://pidgeots.github.io/sberuniversity-project/) - My first project, created using HTML and CSS. The goal of this project was to build a landing page for a company specializing in solar panel sales.
-- [Project 2](https://pidgeots.github.io/to-do-list/) - A desktop To-Do List application. This project uses JavaScript and Bootstrap.
+[Project 1: Portfolio Website](https://pidgeots.github.io/portfolio/)
+- **Technologies:** React, Chakra UI, Formik, Yup
+- **Description:** Development of a single-page portfolio website that includes information about me, links to my pet projects, and a contact form with validation. The project utilizes Chakra UI for styling and Formik with Yup for form handling.
+- **Results:** Gained experience with modern React technologies, implemented responsive layout for proper display on all devices, and developed an interactive user interface.
+
+[Project 2: Landing Page for a Solar Panel Company](https://pidgeots.github.io/sberuniversity-project/)
+- **Technologies:** HTML, CSS
+- **Description:** Creation of a responsive landing page for a company specializing in solar panel sales. The project includes sections with information about products, benefits, and a contact form.
+- **Results:** Acquired basic layout and styling skills and created a modern design.
+
+[Project 3: Desktop To-do List](https://pidgeots.github.io/to-do-list/)
+- **Technologies:** JavaScript, Bootstrap
+- **Description:** Development of an interactive to-do list with features for adding, editing, and deleting tasks. The project includes a responsive design and local data storage.
+- **Results:** Improved JavaScript and Bootstrap skills, and created a functional application.
 
 ---
 
