@@ -4,31 +4,31 @@ This project is available in multiple languages:
 
 # Привет <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> Меня зовут Марат
 
-## Я начинающий Frontend-разработчик с большим интересом к созданию эффективных и креативных веб-сайтов.
+Я фронтенд‑разработчик, который создает удобные веб‑интерфейсы на React и TypeScript, работает с данными через REST API и поддерживает продакшн‑проекты в долгой перспективе. Сейчас живу в Фукуоке (Япония) и развиваюсь как разработчик, совмещая коммерческий опыт и учебные проекты.
 
 ---
 
-## ⚡ О себе
+## ⚡ Чем я занимаюсь
 
-Обучался в Школе 21 от Сбербанка, где писал библиотеки на C и работал в команде через GitLab. В роли тим-лида успешно завершил несколько групповых проектов, акцентируя внимание на устранении препятствий и сокращении времени до выпуска новых фич. Прошел курс Frontend-разработчика в Сбериуниверситете и продолжаю активно развиваться в этом направлении.
+- Разрабатываю интерфейсы на React и Next.js с упором на понятную логику и предсказуемое поведение.
+- Работаю с состоянием приложения (MobX), списками данных, фильтрацией, пагинацией и интеграцией с REST API.
+- Поддерживаю и дорабатываю существующие проекты: добавляю новые фичи, исправляю баги, улучшаю UX и читаемость кода.
+- Быстро осваиваю новые инструменты и процессы, аккуратно отношусь к деталям и консистентности кода.
 
 ---
 
 ## 📂 Мои проекты
-[Проект 1: Портфолио-сайт](https://pidgeots.github.io/portfolio/)
+[Проект 1: Интернет‑магазин украшений «Незабудки»](https://nezabudky.ru/)
+- **Технологии:** React, TypeScript, Next.js, MobX, REST API, Vite, Tailwind/UI‑библиотеки
+- **Что сделал:** Разрабатывал и дорабатывал публичный интерфейс магазина, целиком реализовал страницы «Контакты», «Доставка и оплата» и «Подарочные сертификаты», а также участвовал в работе над главной страницей.
+
+[Проект 2: Портфолио-сайт](https://pidgeots.github.io/portfolio/)
 - **Технологии:** React, Chakra UI, Formik, Yup
-- **Описание:** Разработка одностраничного сайта-визитки (портфолио), включающего информацию обо мне, ссылки на пет-проекты и форму обратной связи с валидацией. В проекте использованы Chakra UI для стилизации и Formik с Yup для работы с формами.
-- **Результаты:** Освоение современных технологий React, создание адаптивной вёрстки для корректного отображения на всех устройствах и разработка интерактивного интерфейса.
+- **Что сделал:** Реализовал одностраничный сайт с информацией обо мне, списком проектов и формой обратной связи. Настроил адаптивную вёрстку и структурировал код так, чтобы было легко добавлять новые секции и обновлять контент.
 
-[Проект 2: Лендинг для компании по продаже солнечных панелей](https://pidgeots.github.io/sberuniversity-project/)
+[Проект 3: Лендинг для компании по продаже солнечных панелей](https://pidgeots.github.io/sberuniversity-project/)
 - **Технологии:** HTML, CSS
-- **Описание:** Создание адаптивного лендинга для компании, занимающейся продажей солнечных панелей. В проекте реализованы секции с информацией о продуктах, преимуществах и контактной формой.
-- **Результаты:** Освоение базовых навыков вёрстки и создание современного дизайна.
-
-[Проект 3: Desktop To-do List](https://pidgeots.github.io/to-do-list/)
-- **Технологии:** JavaScript, Bootstrap
--  **Описание:** Разработка интерактивного списка дел с возможностью добавления, редактирования и удаления задач. Проект включает адаптивный дизайн и локальное хранение данных.
--  **Результаты:** Улучшение навыков работы с JavaScript и Bootstrap, создание функционального приложения.
+- **Что сделал:** Сверстал адаптивный лендинг с блоками о продуктах, преимуществах и контактной информацией. Проработал сетку и типографику так, чтобы сайт корректно отображался на разных устройствах и сохранял цельный дизайн.
 
 ---
 
@@ -44,14 +44,27 @@ This project is available in multiple languages:
 ### Навыки и инструменты
 
 <p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="36" height="36" alt="React" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="36" height="36" alt="React" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="36" height="36" alt="Next.js" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+  </a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+  </a>
 </p>
 
 <p align="center">
