@@ -15,15 +15,19 @@ I am a frontend developer who builds user-friendly web interfaces using React an
 
 ## 📂 My Projects
 
-[Project 1: “Nezabudki” Jewelry Online Store](https://nezabudky.ru/)
+[“Nezabudki” Jewelry Online Store](https://nezabudky.ru/)
 - **Technologies:** React, TypeScript, Next.js, MobX, REST API, Vite, Tailwind / UI libraries  
 - **What I did:** Developed and improved the public store interface. Fully implemented the “Contacts”, “Delivery & Payment”, and “Gift Certificates” pages, and contributed to the homepage development.
 
-[Project 2: Portfolio Website](https://pidgeots.github.io/portfolio/)
+[“Magnar Company Inc” B2B Landing Page](https://magnar.vercel.app/)
+- **Technologies:** React, TypeScript, Next.js, TailwindCSS, HeroUI, Vercel  
+- **What I did:** Developed a B2B landing page from a Figma design. Implemented a fully responsive layout, structured the project architecture in Next.js, created a custom typography system with Tailwind utilities, and built a contact form with client-side validation.
+
+[Portfolio Website](https://pidgeots.github.io/portfolio/)
 - **Technologies:** React, Chakra UI, Formik, Yup  
 - **What I did:** Built a single-page website with information about me, a project list, and a contact form. Implemented responsive layout and structured the codebase to make it easy to extend and update.
 
-[Project 3: Landing Page for a Solar Panel Company](https://pidgeots.github.io/sberuniversity-project/)
+[Landing Page for a Solar Panel Company](https://pidgeots.github.io/sberuniversity-project/)
 - **Technologies:** HTML, CSS  
 - **What I did:** Created a responsive landing page featuring product descriptions, advantages, and contact information. Designed the layout and typography to ensure consistency across devices.
 
