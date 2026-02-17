@@ -15,15 +15,19 @@
 
 ## 📂 プロジェクト
 
-[プロジェクト1：「Nezabudki」ジュエリーオンラインショップ](https://nezabudky.ru/)
+[「Nezabudki」ジュエリーオンラインショップ](https://nezabudky.ru/)
 - **使用技術:** React, TypeScript, Next.js, MobX, REST API, Vite, Tailwind / UIライブラリ  
 - **担当内容:** 公開用ストア画面の開発・改善。「お問い合わせ」「配送と支払い」「ギフト券」ページを一から実装し、トップページ開発にも参加。
 
-[プロジェクト2：ポートフォリオサイト](https://pidgeots.github.io/portfolio/)
+[「Magnar Company Inc」B2Bランディングページ](https://magnar.vercel.app/)
+- **使用技術:** React, TypeScript, Next.js, TailwindCSS, HeroUI, Vercel  
+- **担当内容:** FigmaデザインをもとにB2Bランディングページを開発。Next.jsで構成を設計し、レスポンシブ対応、カスタムタイポグラフィ、お問い合わせフォーム（バリデーション付き）を実装。
+
+[ポートフォリオサイト](https://pidgeots.github.io/portfolio/)
 - **使用技術:** React, Chakra UI, Formik, Yup  
 - **担当内容:** 自己紹介、プロジェクト一覧、お問い合わせフォームを含むシングルページサイトを開発。レスポンシブ対応を実装し、拡張しやすい構造でコードを設計。
 
-[プロジェクト3：太陽光パネル販売会社のランディングページ](https://pidgeots.github.io/sberuniversity-project/)
+[太陽光パネル販売会社のランディングページ](https://pidgeots.github.io/sberuniversity-project/)
 - **使用技術:** HTML, CSS  
 - **担当内容:** 製品情報、強み、連絡先情報を含むレスポンシブなランディングページを作成。さまざまなデバイスで統一感のあるデザインを実現。
 
